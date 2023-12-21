@@ -1,3 +1,5 @@
+![Doc1](https://github.com/Arbaz2219/Tokyo-Olympic-Azure-Data-Engineering-Project/assets/93019407/5ddd3a05-45fc-4256-8e42-887200477a6c)
+
 Project Title: Olympic Data Analysis with Azure
 
 Overview
